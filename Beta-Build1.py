@@ -70,12 +70,5 @@ Sentiment.grid(row = 11, column = 1, padx = 5)
 About = Button(root, text = "About us", command = about)
 About.grid(row = 11, column = 2, padx = 5, sticky = E)
 
-
-#mes1 = Label(root, text="")
-#mes1.grid(row = 12, column = 2, padx = 5, sticky = E)
-
-
-#mes = Label(root, text="Made by Soumya and Himanshu")
-#mes.grid(row = 13, column = 2, padx = 5, sticky = E)
 root.mainloop()
 
