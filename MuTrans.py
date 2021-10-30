@@ -40,7 +40,7 @@ def Lang():
 # result.delete(0.0, END)
 # result.insert(END,b)
 # Title label
-instruction = Label(root, text = "Text Analyzer", font=("arial",17,"bold"))
+instruction = Label(root, text = "MuTrans", font=("arial",17,"bold"))
 instruction.grid(row = 1, column = 0, columnspan = 2, padx = 5, sticky = W)
 # Message label
 
